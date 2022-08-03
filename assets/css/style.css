@@ -1,5 +1,5 @@
 *{
-/*    border: 1px dotted green;*/
+    padding: 5px;
 }
 
 header {
@@ -15,8 +15,14 @@ footer {
     background-color: #2a607c;
     color: #ffffff;
 }
-
+input{
+    text-align: center; 
+}
 h1 {
+    display: flex;
+    justify-content: center;
+}
+h2, input {
     display: flex;
     justify-content: center;
 }
