@@ -1,0 +1,46 @@
+*{
+/*    border: 1px dotted green;*/
+}
+
+header {
+    padding: 20px;
+    font-family: 'Raleway', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+
+footer {
+    padding: 20px;
+    font-family: 'Raleway', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+article {
+    padding: 15px;
+    font-family: 'Raleway', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #ffffff;
+    color: #2a607c;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+
+ p {
+    display: flex;
+    justify-content: center;
+}
+
+
+#passwordResult {
+    height: 250px;
+    background-color: lightgrey;
+    border: 2px dashed darkblue;
+}
