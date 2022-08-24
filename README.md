@@ -14,12 +14,8 @@
   6.  [License](#License)
   
   ## Usage 
+   No live deployment, so run HTML in your browser.
    Input R/P/S and computer will randomly play R/P/S
-  * <a href='https://l1keafox.github.io/RockPaperScissors/'  target="_blank"> Click here for deployment </a> 
-
-
-  
-  ![Website](/assets/images/readme.PNG)
   
   ## Installation 
   no install
